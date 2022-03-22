@@ -4,7 +4,9 @@ programa
 	//Loja de cosméticos - 
 	funcao inicio()
 	{
+		cadeia grupo
 		escreva("Olá grupo")
+		leia(grupo)
 	}
 }
 
@@ -13,7 +15,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 115; 
+ * @POSICAO-CURSOR = 101; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
